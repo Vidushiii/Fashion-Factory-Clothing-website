@@ -1,2 +1,2 @@
-# Fashion-Factory-E-commerce-website
+# Fashion-Factory | Clothing website
 It is a clothing website.
